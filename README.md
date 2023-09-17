@@ -1,7 +1,7 @@
 # Diabetes Diagnosis Classification - Machine Learning Project
 #### FEUP, Faculty of Engineering, University of Porto Master in Data Science and Enginnering
 ##### Ian Karkles, Sónia Ferreira
-##### Data warehouse, November 2022
+##### Machine Learning, November 2022
 ---
 
 <br>
